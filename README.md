@@ -24,3 +24,4 @@ python app.py
 Navigate to:
 - Local: http://localhost:5005
 - Network: http://<your-ip>:5005
+- 
